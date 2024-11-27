@@ -1,0 +1,23 @@
+---
+title: "Tom Saunders"
+subtitle: Engagement Specialist, Centre for eResearch, University of Auckland
+image: tom-portrait.jpg
+image-alt: "Portrait photo of a smiling man with short hair and a moustache."
+about:
+  template: jolla
+  # image-width:
+  image-shape: round
+  # id:
+  links:
+    - text: "{{< iconify fa6-brands:bluesky >}}"
+      href: https://bsky.app/profile/tomsaunders.me
+    - text: "{{< iconify academicons:orcid >}}"
+      href: https://orcid.org/0000-0003-1780-0314
+    - icon: "{{< iconify fa:github >}}"
+      href: https://github.com/tesaunders
+    - text: "{{< iconify academicons:google-scholar >}}"
+      href: https://scholar.google.co.nz/citations?user=l2hWfyYAAAAJ&hl=en
+---
+## Hi there!
+
+Test

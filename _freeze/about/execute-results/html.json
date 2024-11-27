@@ -1,0 +1,17 @@
+{
+  "hash": "b8f3fea5bc5ad1e2384c9caef6422220",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Tom Saunders\"\nsubtitle: Engagement Specialist, Centre for eResearch, University of Auckland\n# image: \n# image-alt:\nabout:\n  template: jolla\n  # image-width:\n  # image-shape:\n  # id:\n  # links:\n  #   - text: \"{{< iconify academicons:orcid >}}\"\n  #     href: https://orcid.org/0000-0003-1780-0314\n  #   - icon: \"{{< iconify fa:github >}}\"\n  #     href: https://github.com/tesaunders\n  #   - text: \"{{< iconify academicons:google-scholar >}}\"\n  #     href: https://scholar.google.co.nz/citations?user=l2hWfyYAAAAJ&hl=en\n  #   - text: \"{{< iconify fa6-brands:bluesky >}}\"\n  #     href: https://bsky.app/profile/tomsaunders.me\n---\n\n\n\n\nAbout this site\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [
+      "about_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,48 @@
+project:
+  type: website
+
+website:
+  title: "Tom Saunders"
+  description: ""
+  # favicon:
+  page-navigation: true
+  back-to-top-navigation: true
+  # comments: 
+  #   utterances: 
+  #     repo: tesaunders/tesaunders.github.io 
+  #     label: utterances
+  #     theme: body-light
+  #     issue-term: title
+  
+  navbar:
+    right:
+      - text: About
+        href: about/index.qmd
+      # - text: Blog
+      #   href: blog/index.qmd
+      # - text: Publications
+      #   href: publications/index.qmd
+      # - text: Resources
+      #   href: resources/index.qmd
+
+  page-footer:  
+    left: >-
+     &#169; Tom Saunders &#8729; <a href="https://github.com/tesaunders/quarto-website">{{< iconify fa:github >}}</a>
+
+    center: |
+      <a class="link-dark" href="https://orcid.org/0000-0003-1780-0314" title="ORCiD" target="_blank" rel="noopener">{{< iconify academicons:orcid >}}</a>
+      <a class="link-dark" href="https://bsky.app/profile/tomsaunders.me" title="Bluesky" target="_blank" rel="noopener">{{< iconify fa6-brands:bluesky >}}</a>
+      <a class="link-dark" href="https://github.com/tesaunders" title="github" target="_blank" rel="noopener">{{< iconify fa:github >}}</a>
+      <a class="link-dark" href="https://scholar.google.co.nz/citations?user=l2hWfyYAAAAJ&hl=en" title="Google Scholar" target="_blank" rel="noopener">{{< iconify academicons:google-scholar >}}</a>
+
+format:
+  html:
+    theme: 
+      dark: darkly
+      light: flatly
+    css: styles.css
+    code-link: true
+    pagetitle: "{{< meta title >}} | Tom Saunders"
+
+execute:
+  freeze: auto
