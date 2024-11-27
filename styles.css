@@ -1,1 +1,6 @@
 /* css styles */
+
+hr {
+    height: 3px;
+    background-color: #0000000;
+}

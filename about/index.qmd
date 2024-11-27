@@ -1,6 +1,6 @@
 ---
 title: "Tom Saunders"
-subtitle: Engagement Specialist, Centre for eResearch, University of Auckland
+subtitle: Engagement Specialist,<br>Centre for eResearch, University of Auckland
 image: tom-portrait.jpg
 image-alt: "Portrait photo of a smiling man with short hair and a moustache."
 about:
@@ -18,6 +18,10 @@ about:
     - text: "{{< iconify academicons:google-scholar >}}"
       href: https://scholar.google.co.nz/citations?user=l2hWfyYAAAAJ&hl=en
 ---
-## Hi there!
+___
 
-Test
+## Hi!
+
+I'm an Engagement Specialist in the Centre for eResearch at the University of Auckland.
+
+
