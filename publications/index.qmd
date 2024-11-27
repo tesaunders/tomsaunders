@@ -1,0 +1,15 @@
+---
+title: "Publications"
+bibliography: publications.json
+csl: style.csl
+nocite: |
+  @*
+---
+
+<div style="text-align:center">    
+  <a class="link-dark" href="https://orcid.org/0000-0003-1780-0314" title="ORCiD"     target="_blank" rel="noopener" style="text-align:center">{{< iconify              academicons:orcid size=2x >}}</a>
+  <a class="link-dark" href="https://scholar.google.co.nz/citations?user=l2hWfyYAAAAJ&hl=en" title="Google Scholar" target="_blank" rel="noopener" style="text-align:center">{{< iconify academicons:google-scholar size=2x >}}</a>
+</div>
+
+::: {#refs}
+:::
