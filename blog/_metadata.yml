@@ -1,0 +1,5 @@
+# Re-render posts only when a change to the source file is made
+freeze: auto
+
+# Enable banner style title blocks
+title-block-banner: true

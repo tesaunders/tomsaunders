@@ -18,8 +18,8 @@ website:
     right:
       - text: About
         href: about/index.qmd
-      # - text: Blog
-      #   href: blog/index.qmd
+      - text: Blog
+        href: blog/index.qmd
       - text: Publications
         href: publications/index.qmd
       # - text: Resources

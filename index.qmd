@@ -1,4 +1,13 @@
 ---
 title: "Tom Saunders, PhD"
+pagetitle: "Tom Saunders, PhD"
+subtitle: "Engagement Specialist, Centre for eResearch"
+# image: 
+# image-alt:
+about:
+  template: solana
+  # image-width: 500px
+  id: hero-heading
+page-layout: full
 ---
 
