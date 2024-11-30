@@ -21,8 +21,8 @@ website:
         href: blog/index.qmd
       - text: Publications
         href: publications/index.qmd
-      # - text: Resources
-      #   href: resources/index.qmd
+      # - text: Projects
+      #   href: projects/index.qmd
 
   page-footer:  
     left: >-
@@ -35,12 +35,10 @@ website:
 
 format:
   html:
-    theme: 
-      dark: darkly
-      light: flatly
+    theme: darkly
     css: styles.css
     code-link: true
-    pagetitle: "{{< meta title >}} | Tom Saunders"
+    pagetitle: "{{< meta title >}}"
 
 execute:
   freeze: auto

@@ -1,7 +1,7 @@
 ---
 title: "Tom Saunders"
 subtitle: Engagement Specialist,<br>Centre for eResearch, University of Auckland
-pagetitle: "{{< meta title >}}"
+pagetitle: "Tom Saunders"
 image: assets/tom-portrait.jpg
 image-alt: "Portrait photo of a smiling man with short hair and a moustache."
 about:
@@ -23,5 +23,8 @@ ___
 
 ## Hi!
 
-I'm an Engagement Specialist in the Centre for eResearch at the University of Auckland.
+I'm passionate about powering up research with digital skills.
 
+I coordinate training provided by the Centre for eResearch, including workshops on programming, managing research data, and using specialist research software. 
+
+My interests include data visualisation, open research practices, and research policy.
