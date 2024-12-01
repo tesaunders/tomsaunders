@@ -9,6 +9,17 @@ hr {
     background-color: #0000000;
 }
 
-.subtitle.lead {
+.quarto-title {
   text-align: center;
+}
+
+div.quarto-about-solana .about-entity .about-links {
+  justify-content: center;
+  border-style: none;
+  column-gap: 0em;
+}
+
+div.quarto-about-solana .about-entity .about-link {
+  border-style: none;
+  font-size: 1.5em;
 }

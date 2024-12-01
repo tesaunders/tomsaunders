@@ -2,10 +2,10 @@
 title: "Tom Saunders"
 subtitle: Engagement Specialist,<br>Centre for eResearch, University of Auckland
 pagetitle: "Tom Saunders"
-image: assets/tom-portrait.jpg
+image: assets/images/tom-portrait.jpg
 image-alt: "Portrait photo of a smiling man with short hair and a moustache."
 about:
-  template: jolla
+  template: solana
   # image-width:
   image-shape: round
   # id:

@@ -18,20 +18,21 @@ website:
     title: "Tom Saunders"
     right:
       - text: Blog
-        href: blog/index.qmd
+        href: blog.qmd
       - text: Publications
-        href: publications/index.qmd
+        href: publications.qmd
       # - text: Projects
-      #   href: projects/index.qmd
+      #   href: projects.qmd
 
-  page-footer:  
-    left: >-
-     &#169; Tom Saunders &#8729; <a href="https://github.com/tesaunders/">{{< iconify fa:github >}}</a>
-
+  page-footer:
+    border: true
+    left: |
+      Powered by [{{< iconify simple-icons:quarto >}} Quarto](https://quarto.org).
     center: |
-      <a class="link-dark" href="https://orcid.org/0000-0003-1780-0314" title="ORCiD" target="_blank" rel="noopener">{{< iconify academicons:orcid >}}</a>
-      <a class="link-dark" href="https://bsky.app/profile/tomsaunders.me" title="Bluesky" target="_blank" rel="noopener">{{< iconify fa6-brands:bluesky >}}</a>
-      <a class="link-dark" href="https://github.com/tesaunders" title="github" target="_blank" rel="noopener">{{< iconify fa:github >}}</a>
+      &copy; Tom Saunders 
+      [{{< iconify academicons:orcid >}}](https://orcid.org/0000-0003-1780-0314)
+      [{{< iconify fa6-brands:bluesky >}}](https://bsky.app/profile/tomsaunders.me)
+      [{{< iconify fa:github >}}](https://github.com/tesaunders)
 
 format:
   html:
