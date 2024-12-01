@@ -10,21 +10,28 @@ about:
   image-shape: round
   # id:
   links:
+    # - text: "{{< iconify fa6-solid:envelope >}}"
+    #   href: mailto:[email]
     - text: "{{< iconify academicons:orcid >}}"
       href: https://orcid.org/0000-0003-1780-0314
     - text: "{{< iconify fa6-brands:bluesky >}}"
       href: https://bsky.app/profile/tomsaunders.me
-    - icon: "{{< iconify fa6-brands:github >}}"
+    - icon: "{{< iconify fa:github >}}"
       href: https://github.com/tesaunders
     - text: "{{< iconify academicons:google-scholar >}}"
       href: https://scholar.google.co.nz/citations?user=l2hWfyYAAAAJ&hl=en
+
+format:
+  html:
+    email-obfuscation: javascript
+    # page-layout: full
 ---
 ___
 
-## Hi!
+I'm passionate about equipping researchers with the skills they need to achieve greater impact.
 
-I'm passionate about powering up research with digital skills.
+I plan, coordinate, and teach training workshops on programming, managing research data, and specialist research software. 
 
-I coordinate training provided by the Centre for eResearch, including workshops on programming, managing research data, and using specialist research software. 
+I advocate for openness and reproducibility in research, and maintain an interest in research policy.
 
-My interests include data visualisation, open research practices, and research policy.
+I'm currently learning how to use {{< iconify fa6-brands:r-project >}} and Quarto {{< iconify simple-icons:quarto >}} to visualise and interpret data.

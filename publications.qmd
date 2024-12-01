@@ -6,10 +6,8 @@ nocite: |
   @*
 ---
 
-<div style="text-align:center">    
-  <a class="link-light" href="https://orcid.org/0000-0003-1780-0314" title="ORCiD"     target="_blank" rel="noopener" style="text-align:center">{{< iconify              academicons:orcid size=2x >}}</a>
-  <a class="link-light" href="https://scholar.google.co.nz/citations?user=l2hWfyYAAAAJ&hl=en" title="Google Scholar" target="_blank" rel="noopener" style="text-align:center">{{< iconify academicons:google-scholar size=2x >}}</a>
-</div>
+[{{< iconify academicons:orcid size=2x >}}](https://orcid.org/0000-0003-1780-0314)
+[{{< iconify academicons:google-scholar size=2x >}}](https://scholar.google.co.nz/citations?user=l2hWfyYAAAAJ&hl=en)
 
 ## Peer Reviewed Works
 
