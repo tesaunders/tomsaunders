@@ -16,7 +16,7 @@ about:
       href: https://orcid.org/0000-0003-1780-0314
     - text: "{{< iconify fa6-brands:bluesky title=BlueSky >}}"
       href: https://bsky.app/profile/tomsaunders.me
-    - icon: "{{< iconify fa:github >}}"
+    - text: "{{< iconify fa:github title=GitHub >}}"
       href: https://github.com/tesaunders
     - text: "{{< iconify academicons:google-scholar title=Scholar >}}"
       href: https://scholar.google.co.nz/citations?user=l2hWfyYAAAAJ&hl=en
