@@ -14,15 +14,15 @@ website:
   #     theme: body-light
   #     issue-term: title
   
-  navbar:
-    title: "Tom Saunders"
-    right:
-      - text: Blog
-        href: blog.qmd
-      - text: Publications
-        href: publications.qmd
-      # - text: Projects
-      #   href: projects.qmd
+  # navbar:
+  #   title: "Tom Saunders"
+  #   right:
+  #     - text: Blog
+  #       href: blog.qmd
+  #     - text: Publications
+  #       href: publications.qmd
+  #     - text: Projects
+  #       href: projects.qmd
 
   page-footer:
     border: true

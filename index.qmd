@@ -10,21 +10,20 @@ about:
   image-shape: round
   # id:
   links:
-    # - text: "{{< iconify fa6-solid:envelope >}}"
-    #   href: mailto:[email]
-    - text: "{{< iconify academicons:orcid >}}"
+    - text: "{{< iconify fa6-solid:envelope title=Email >}}"
+      href: mailto:tom.saunders@auckland.ac.nz
+    - text: "{{< iconify academicons:orcid title=ORCiD >}}"
       href: https://orcid.org/0000-0003-1780-0314
-    - text: "{{< iconify fa6-brands:bluesky >}}"
+    - text: "{{< iconify fa6-brands:bluesky title=BlueSky >}}"
       href: https://bsky.app/profile/tomsaunders.me
     - icon: "{{< iconify fa:github >}}"
       href: https://github.com/tesaunders
-    - text: "{{< iconify academicons:google-scholar >}}"
+    - text: "{{< iconify academicons:google-scholar title=Scholar >}}"
       href: https://scholar.google.co.nz/citations?user=l2hWfyYAAAAJ&hl=en
 
 format:
   html:
     email-obfuscation: javascript
-    # page-layout: full
 ---
 ___
 
@@ -32,6 +31,6 @@ I'm passionate about equipping researchers with the skills they need to achieve 
 
 I plan, coordinate, and teach training workshops on programming, managing research data, and specialist research software. 
 
-I advocate for openness and reproducibility in research, and maintain an interest in research policy.
-
 I'm currently learning how to use {{< iconify fa6-brands:r-project >}} and Quarto {{< iconify simple-icons:quarto >}} to visualise and interpret data.
+
+I believe improving uptake of digital research skills, while encouraging openness and reproducibility, will have a transformational effect on research and innovation.
