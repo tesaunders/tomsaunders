@@ -1,0 +1,37 @@
+/* css styles */
+
+a {
+  color: #007bff;
+}
+
+hr {
+    height: 3px;
+    background-color: #0000000;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+.quarto-title {
+  text-align: center;
+}
+
+div.quarto-about-solana .about-entity .about-links {
+  justify-content: center;
+  border-style: none;
+  column-gap: 0em;
+}
+
+div.quarto-about-solana .about-entity .about-link {
+  border-style: none;
+  font-size: 1.5em;
+}
+
+.navbar {
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  background-color: #222222;
+  border-top: 1px solid #383838;
+  border-bottom: 1px solid #383838;
+}
