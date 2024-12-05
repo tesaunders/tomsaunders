@@ -32,5 +32,3 @@ I'm passionate about equipping researchers with the skills they need to achieve 
 I plan, coordinate, and teach training workshops on programming, managing research data, and specialist research software. 
 
 I'm currently learning how to use {{< iconify fa6-brands:r-project >}} and Quarto {{< iconify simple-icons:quarto >}} to visualise and interpret data.
-
-I believe improving uptake of digital research skills, while encouraging openness and reproducibility, will have a transformational effect on research and innovation.
