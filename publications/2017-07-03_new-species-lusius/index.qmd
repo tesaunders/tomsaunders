@@ -21,4 +21,4 @@ description: "The description of a new species of native ichneumonid wasp, as pa
 
 *Lusius malfoyi* n. sp. (Hymenoptera: Ichneumonidae) is described. It is an endemic New Zealand species and the first species of the genus to be described from the Australasian region.
 
-![](lusius-malfoyi-lateral.jpg){width=400 fig-align="center"}
+![](lusius-malfoyi.jpg){fig-align="center"}
