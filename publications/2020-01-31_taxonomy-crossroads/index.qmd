@@ -1,0 +1,22 @@
+---
+title: "Taxonomy at a crossroads: Communicating value, building capability, and seizing opportunities for the future"
+author: 
+- name: Thomas E. Saunders
+  orcid: 0000-0003-1780-0314
+date: "2020-01-31"
+categories:
+  - Peer Reviewed
+  - Taxonomy
+  - Natural History
+  - Scientific Collections
+  - Research Policy
+subtitle: "*Megataxa*"
+description: "Invited contribution to a special issue on the top issues facing the scientific discipline of taxonomy."
+---
+<div class="meta-heading-links">Links</div>
+
+[{{< iconify fluent:document-20-filled >}} **Publication**](https://doi.org/10.11646/megataxa.1.1.13){.btn .btn-outline-primary .btn role="button"}
+
+## Abstract
+
+I believe the top three questions facing taxonomy today all relate to the health and future of the discipline itself. 1. How do we ensure taxonomy is valued? 2. How do we build and maintain taxonomic capability? 3. How do we ensure taxonomy benefits from emerging opportunities?

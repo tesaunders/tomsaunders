@@ -1,0 +1,32 @@
+---
+title: "Electrophysiological responses of *Trissolcus japonicus*, *T. basalis*, and *T. oenone* (Hymenoptera: Scelionidae) to volatile compounds associated with New Zealand stink bugs (Hemiptera: Pentatomidae)"
+author: 
+- name: Thomas E. Saunders
+  orcid: 0000-0003-1780-0314
+- name: Lee-Anne M. Manning
+  orcid: 0000-0002-6730-5859
+- name: Gonzalo A. Avila
+  orcid: 0000-0002-5584-453X
+- name: Gregory I. Holwell
+  orcid: 0000-0002-6059-6032
+- name: Kye Chung Park
+  orcid: 0000-0002-4932-2292
+date: "2024-08-03"
+categories:
+  - Peer Reviewed
+  - Electroantennography
+  - Semiochemicals
+  - Host Recognition
+  - Biological Control
+subtitle: "*Journal of Chemical Ecology*"
+description: "Electrophysiological investigation of scelionid egg parasitoids' ability to detect compounds associated with Pentatomid bugs, as part of my PhD research."
+---
+<div class="meta-heading-links">Links</div>
+
+[{{< iconify fluent:document-20-filled >}} **Publication**](https://doi.org/10.1007/s10886-024-01533-7){.btn .btn-outline-primary .btn role="button"} 
+&nbsp; 
+[{{< iconify academicons:zenodo >}} **Data & R Code**](https://doi.org/10.5281/zenodo.6634031){.btn .btn-outline-primary .btn role="button"} 
+
+## Abstract
+
+Parasitoid biological control agents rely heavily on olfaction to locate their hosts. Chemical cues associated with hosts and non-hosts are known to influence the expression of host preferences and host-specificity. A better understanding of how and why parasitoids attack some species and not others, based on volatile organic compounds associated with potential hosts, can provide key information on the parasitoid’s host preferences, which could be applied to pre-release risk assessments for classical biological control agents. Electrophysiological techniques such as electroantennography (EAG) and GC-EAD (gas chromatography coupled with electroantennographic detection) are widely used to identify bioactive semiochemicals. But the application of these techniques to understanding how chemical ecological cues mediate parasitoid host specificity has not been as thoroughly explored. We conducted GC-EAD and EAG studies to identify olfactory-active compounds associated with adult females of nine stink bug species from Aotearoa/New Zealand on the antennae of three closely related parasitoid species: *Trissolcus japonicus* Ashmead, a pre-emptively (=proactively) approved biocontrol agent against brown marmorated stink bug; *T. basalis* (Wollaston), a biocontrol agent introduced against *Nezara viridula* L. in 1949; and *T. oenone* Johnson, a native Australasian pentatomid parasitoid. Eight compounds associated with stink bugs elicited antennal responses from all three parasitoids, and we were able to identify seven of these. (E)-2-hexenal, (E)-4-oxo-2-hexenal, (E)-2-octenal and (E)-2-decenal generally elicited stronger responses in the three parasitoids, while n-tridecane, n-dodecane, and (E)-2-decenyl acetate elicited weaker responses. We discuss how and why the results from electrophysiological experiments can be applied to non-target risk assessments within biological control programmes.

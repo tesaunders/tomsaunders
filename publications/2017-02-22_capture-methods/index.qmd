@@ -1,0 +1,31 @@
+---
+title: "Optimising capture methods for the evaluation of parasitoid wasp diversity"
+author: 
+- name: Thomas E. Saunders
+  orcid: 0000-0003-1780-0314
+date: "2017-02-22"
+categories:
+  - Thesis
+  - Biodiversity
+  - Taxonomy
+  - Sampling methods
+  - Rarefaction
+subtitle: "*University of Auckland*"
+description: "Master's thesis investigating optimal sampling techniques for measuring parasitoid wasp species richness, and describing a new species of native New Zealand ichneumonid wasp."
+---
+<div class="meta-heading-links">Links</div>
+
+[{{< iconify mdi:graduation-cap >}} **Thesis**](http://hdl.handle.net/2292/31937){.btn .btn-outline-primary .btn role="button"} 
+&nbsp; 
+[{{< iconify academicons:inaturalist >}} **iNaturalist**](https://inaturalist.nz/projects/parasitoid-wasps-tom-saunders-msc){.btn .btn-outline-primary .btn role="button"} 
+&nbsp; 
+[{{< iconify fa-solid:satellite-dish >}} **The Guardian**](https://www.theguardian.com/environment/2017/oct/10/lusius-malfoyi-wasp-new-zealand-insect-named-after-harry-potter-villain){.btn .btn-outline-primary .btn role="button"} 
+&nbsp; 
+[{{< iconify fa-solid:satellite-dish >}} **CNN**](https://edition.cnn.com/2017/10/10/asia/harry-potter-wasp-lusius-malfoyi-lucius-malfoy/index.html){.btn .btn-outline-primary .btn role="button"} 
+&nbsp;
+[{{< iconify fa-solid:satellite-dish >}} **BBC**](https://www.bbc.com/news/newsbeat-41582081){.btn .btn-outline-primary .btn role="button"}
+
+## Abstract
+
+Parasitoid wasps are mega-diverse, ecologically dominant, but poorly studied components of global biodiversity. Despite their intensive application within pest management as biocontrol agents, little is known about native species. To understand their basic biology they must be collected in sampling programmes. However, invertebrate surveys are increasingly subject to funding and time constraints that often preclude complete faunal inventories. In order to maximise the efficiency and reduce the cost of their collection, the application of optimal sampling techniques within a Rapid Biodiversity Assessment framework is proposed. Two sites in the Waitakere Ranges were sampled three times over the summer. An intensive sampling effort of 840 Malaise-trap-days over a three month period was used to determine the relationship between sampling effort and observed species richness. Rarefaction techniques and non-parametric estimators were used to predict true species richness and to evaluate the completeness of sampling. Results show that an intensive Malaise-trapping regime over the summer can capture two-thirds of parasitoid wasp species present. Sampling recommendations are provided to guide optimal usage of Malaise traps for both ecological studies and faunal inventories. Modern taxonomic methods are reviewed and a new species of parasitoid wasp is described, representing the first New Zealand species from the genus *Lusius* (Ichneumonidae: Ichneumoninae). Morphological measurements confirm the new species represents a significant range expansion for the genus. Greater collaboration between ecologists and taxonomists is encouraged, in order to make more efficient use of resources, data, and expertise unique to each discipline. This is the first study to investigate the relationship between sampling effort and parasitoid wasp diversity in New Zealand. It shows that very high sampling effort fails to catch all species present. Parasitoid wasps are known to be keystone species that show promise as indicators of environmental quality and as surrogates for the diversity of other taxa. The development of optimal sampling strategies will therefore provide an important foundation for their future study.
+

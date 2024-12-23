@@ -1,0 +1,29 @@
+---
+title: "Retrospective host-specificity testing shows *Trissolcus basalis* (Wollaston) and the native *Trissolcus oenone* (Dodd) (Hymenoptera: Scelionidae) have overlapping physiological host ranges in New Zealand"
+author: 
+- name: Thomas E. Saunders
+  orcid: 0000-0003-1780-0314
+- name: Gonzalo A. Avila
+  orcid: 0000-0002-5584-453X
+- name: Gregory I. Holwell
+  orcid: 0000-0002-6059-6032
+date: "2022-04-26"
+categories:
+  - Peer Reviewed
+  - Biological Control
+  - Host Range
+  - Non-target Risks
+  - Pentatomidae
+  - Scelionidae
+subtitle: "*Biological Control*"
+description: "No-choice oviposition tests between an endemic New Zealand shield bug and an approved biological control agent, conducted in containment, as part of my PhD research."
+---
+<div class="meta-heading-links">Links</div>
+
+[{{< iconify fluent:document-20-filled >}} **Publication**](https://doi.org/10.1016/j.biocontrol.2022.104926){.btn .btn-outline-primary .btn role="button"} 
+&nbsp; 
+[{{< iconify academicons:zenodo >}} **Data & R Code**](https://doi.org/10.5281/zenodo.6271008){.btn .btn-outline-primary .btn role="button"} 
+
+## Abstract
+
+Retrospective host range testing is essential for understanding the physiological host range of introduced biological control agents (BCAs) and updating forecasts of non-target risks. It is especially important to conduct this work if there was no host range testing prior to release of the agent. *Trissolcus basalis* Wollaston was released in New Zealand in 1949 against green vegetable bug (*Nezara viridula* [L.]), but host range testing was never undertaken, and subsequent work in the 1960s was only of a qualitative nature and remains incomplete. The host-parasitoid complex between New Zealand pentatomids, *T. basalis*, and the native pentatomid parasitoid *Trissolcus oenone* Dodd, is therefore poorly understood. We conducted no-choice oviposition tests between the two resident *Trissolcus* species and all available New Zealand pentatomid species to characterise the physiological (=fundamental) host ranges of these parasitoids. We present the results of the first retrospective host-specificity study on *T. basalis* in New Zealand. Our results show *T. basalis* attacks and develops in all nine pentatomid taxa we exposed it to (including the endemic alpine species *Hypsithocus hudsonae* Bergroth), while *T. oenone* attacks and develops in seven out of eight pentatomid species we tested it against (and its capacity to attack *H. hudsonae* remains unknown). Parasitism efficiencies for all treatments exceeded 60%, while development times were similar for both parasitoids regardless of host. We discuss the importance of physiological host range testing for understanding potential non-target effects. *Trissolcus japonicus* Ashmead (Hymenoptera: Scelionidae) was recently approved for release in New Zealand against brown marmorated stink bug *Halyomorpha halys* Stål (Hemiptera: Pentatomidae), subject to its potential establishment, and we examine our results in the context of potential competition between introduced parasitoids for non-target species.

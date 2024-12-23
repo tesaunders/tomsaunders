@@ -1,0 +1,29 @@
+---
+title: "The Future is Open: Establishing Wider Open Access for Research Publications in Aotearoa New Zealand"
+author: 
+- name: Thomas E. Saunders
+  orcid: 0000-0003-1780-0314
+date: "2022-07-15"
+categories:
+  - Report
+  - Research Policy
+  - Open Research
+subtitle: "*Office of the Prime Minister's Chief Science Advisor*"
+description: "Intern report recommending changes to New Zealand research policy to ensure greater public access to the results of publicly-funded research, as part of an internship in the Office ofthe Prime Minister's Chief Science Advisor, Dame Juliet Gerrard."
+---
+<div class="meta-heading-links">Links</div>
+
+[{{< iconify fluent:document-20-filled >}} **Publication**](https://www.pmcsa.ac.nz/2022/07/15/the-future-is-open-intern-report-on-open-access-publishing-in-aotearoa/){.btn .btn-outline-primary .btn role="button"} 
+&nbsp; 
+[{{< iconify academicons:zenodo >}} **Publication (Archive)**](https://doi.org/10.5281/zenodo.6872128){.btn .btn-outline-primary .btn role="button"} 
+
+## Executive Summary
+
+This report offers recommendations for Aotearoa New Zealand’s public research funders to improve access to publicly funded research. It is the result of a three-month science policy internship in the office of Professor Dame Juliet Gerrard, the Prime Minister’s Chief Science Advisor, commencing in June 2021. These recommendations, and the accompanying background material, are informed by a review of literature, and consultations with domestic and international stakeholders including research funders, scholarly communication and library professionals, research institutions, and individual researchers.  
+
+The New Zealand Government invests around $1.7b annually into research and is committed to making the results of this investment more relevant and accessible to end-users. Much of the output of this research is published in electronic scholarly journals behind digital paywalls, and cannot be accessed without a subscription. Much of it is therefore not available to the general public. If Aotearoa New Zealand is to pursue the goals of Open Research, which emphasise the importance of transparency, accountability, reproducibility, accessibility, and collaboration in how scholarly research is designed, conducted, disseminated, and evaluated, we need to improve access to scholarly publications. A key pillar of Open Research is Open Access (OA), the practise of making research literature freely available on the internet where this is ethically and culturally appropriate, under terms which allow most kinds of reuse, while ensuring authors are properly acknowledged. OA benefits the research process by providing access to current scholarly knowledge. It benefits researchers by providing a greater readership and citation rate for their work. And importantly, it benefits society by allowing the public to access high quality peer reviewed research, improving their understanding of the world around them and combating misinformation.  
+
+The recommendations in this report are designed to lay the foundations for a long-term OA strategy in Aotearoa New Zealand. Some recommendations will take longer than others to implement, and some may require more investment to achieve. The magnitude of necessary investment will become clearer as consultation progresses. Implementing the full set of recommendations will of course depend on the availability of resources, but we need to be aware of the costs of inaction. Allowing our research to remain locked behind paywalls robs us of the opportunity to extract maximum impact and value from each dollar of public money invested. It slows the pace of scientific discovery, research commercialisation, and the development of evidence-based public policy. And it prioritises the interests of offshore publishing companies above the people who fund, conduct, and contribute to the research in the first place.  
+
+The future is Open.
+

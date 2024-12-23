@@ -1,0 +1,24 @@
+---
+title: "A new species of <i>Lusius</i> (Hymenoptera: Ichneumonidae) from New Zealand"
+author: 
+- name: Thomas E. Saunders
+  orcid: 0000-0003-1780-0314
+- name: Darren F. Ward
+  orcid: 0000-0002-4509-8553
+date: "2017-07-03"
+categories:
+  - Peer Reviewed
+  - Taxonomy
+  - Biodiversity
+subtitle: "*New Zealand Entomologist*"
+description: "The description of a new species of native ichneumonid wasp, as part of my master's research."
+---
+<div class="meta-heading-links">Links</div>
+
+[{{< iconify fluent:document-20-filled >}} **Publication**](https://doi.org/10.1080/00779962.2017.1357427){.btn .btn-outline-primary .btn role="button"}
+
+## Abstract
+
+*Lusius malfoyi* n. sp. (Hymenoptera: Ichneumonidae) is described. It is an endemic New Zealand species and the first species of the genus to be described from the Australasian region.
+
+![](lusius-malfoyi.jpg){fig-align="center"}

@@ -14,13 +14,13 @@ website:
   #     theme: body-light
   #     issue-term: title
   
-  # navbar:
-  #   title: "Tom Saunders"
-  #   right:
-  #     - text: Blog
-  #       href: blog.qmd
-  #     - text: Publications
-  #       href: publications.qmd
+  navbar:
+    title: "Tom Saunders"
+    right:
+      # - text: Blog
+      #   href: blog.qmd
+      - text: Publications
+        href: publications/index.qmd
   #     - text: Projects
   #       href: projects.qmd
 
@@ -37,7 +37,7 @@ website:
 format:
   html:
     theme: darkly
-    css: styles.css
+    css: assets/stylesheets/styles.css
     code-link: true
     pagetitle: "{{< meta title >}}"
 

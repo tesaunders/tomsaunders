@@ -1,0 +1,31 @@
+---
+title: "Pre-emptive host-specificity testing of *Trissolcus japonicus* (Ashmead) (Hymenoptera: Scelionidae) reveals high parasitism levels against the endemic New Zealand alpine shield bug in laboratory no-choice tests"
+author: 
+- name: Thomas E. Saunders
+  orcid: 0000-0003-1780-0314
+- name: Gonzalo A. Avila
+  orcid: 0000-0002-5584-453X
+- name: Gregory I. Holwell
+  orcid: 0000-0002-6059-6032
+date: "2021-03-18"
+categories:
+  - Peer Reviewed
+  - Biological Control
+  - Host Range
+  - Non-target Risks
+  - Pentatomidae
+  - Scelionidae
+subtitle: "*Austral Entomology*"
+description: "No-choice oviposition tests between an endemic New Zealand shield bug and an approved biological control agent, conducted in containment, as part of my PhD research."
+---
+<div class="meta-heading-links">Links</div>
+
+[{{< iconify fluent:document-20-filled >}} **Publication**](https://doi.org/10.7717/peerj.4642){.btn .btn-outline-primary .btn role="button"} 
+&nbsp; 
+[{{< iconify academicons:zenodo >}} **Data**](https://doi.org/10.5281/zenodo.4536541){.btn .btn-outline-primary .btn role="button"} 
+&nbsp; 
+[{{< iconify academicons:zenodo >}} **R Code**](https://doi.org/10.5281/zenodo.4536545){.btn .btn-outline-primary .btn role="button"}
+
+## Abstract
+
+Brown marmorated stink bug (BMSB), *Halyomorpha halys* (Hemiptera: Pentatomidae), is a serious horticultural pest causing considerable damage to local production and international supply chains as it spreads around the world. The samurai wasp, *Trissolcus japonicus* (Hymenoptera: Scelionidae), is well recognised as the most promising classical biological control against BMSB. The wasp has been conditionally approved for release in New Zealand in the event the stink bug establishes here. Previous host range testing showed that all available non-target New Zealand pentatomids except a single exotic species were accepted for oviposition and that the parasitoid was capable of parasitising the eggs of two native pentatomids at proportions similar to BMSB. Only one New Zealand species of pentatomid, the endemic alpine shield bug *Hypsithocus hudsonae*, was not previously tested owing to the difficulty of collecting it from the field. Here we report the results of no-choice oviposition tests between *H. hudsonae* and *T. japonicus*, conducted in containment, to complement previous physiological host range testing of this parasitoid in New Zealand. Parasitoids emerged from 14 out of 15 egg masses, and in total, from 78 out of 83 eggs (94%). The mean sex ratio was 89% female, and no males emerged from six egg masses. *H. hudsonae* is confirmed as a physiological host for *T. japonicus*, and this finding is discussed in relation to the strengths and limitations of physiological host range studies.
