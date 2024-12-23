@@ -1,0 +1,51 @@
+---
+title: "Protective geometry and reproductive anatomy as candidate determinants of clutch size variation in pentatomid bugs"
+author: 
+- name: Paul K. Abram
+  orcid: 0000-0002-8564-6227
+- name: Eric Guerra-Grenier
+  orcid: 0000-0003-0112-7663
+- name: Jacques Brodeur
+- name: Clarissa Capko
+- name: Michely Ferreira Santos Aquino
+- name: Elizabeth H. Beers
+- name: Maria Carolina Blassioli-Moraes
+- name: Miguel Borges 
+- name: M. Fernanda Cingolani 
+- name: Antonino Cusumano 
+- name: Patrick De Clercq 
+- name: Celina A. Fernandez 
+- name: Tara D. Gariepy 
+- name: Tim Haye
+- name: Kim Hoelmer
+- name: Raul Alberto Laumann
+- name: Marcela Lietti
+- name: J. E. McPherson
+- name: Eduardo Punschke
+- name: Thomas E. Saunders
+  orcid: 0000-0003-1780-0314
+- name: Jin-Ping Zhang
+- name: Ian C. W. Hardy
+date: "2023-10"
+categories:
+  - Peer Reviewed
+  - Pentatomidae
+  - Egg Masses
+  - Reproductive Strategies
+  - Circle Packing
+subtitle: "*The American Naturalist*"
+description: "Analyses of pentatomid egg masses to explain clutch size variation as a result of two hypotheses: minimising exposure of eggs to the outer edge of masses; or fixed reproductive anatomy."
+---
+<div class="meta-heading-links">Links</div>
+
+[{{< iconify fluent:document-20-filled >}} **Publication**](https://doi.org/10.1086/725917){.btn .btn-outline-primary .btn role="button"} 
+&nbsp; 
+[{{< iconify academicons:biorxiv >}} **Preprint**](https://doi.org/10.1101/2022.05.16.492197){.btn .btn-outline-primary .btn role="button"}
+&nbsp; 
+[{{< iconify academicons:dryad >}} **Data**](https://doi.org/10.5061/dryad.kprr4xh6r){.btn .btn-outline-primary .btn role="button"}
+&nbsp; 
+[{{< iconify academicons:zenodo >}} **R Code**](https://doi.org/10.5281/zenodo.7384160){.btn .btn-outline-primary .btn role="button"}
+
+## Abstract
+
+Many animals lay their eggs in clusters. Eggs on the periphery of clusters can be at higher risk of mortality. We asked whether the most commonly occurring clutch sizes in pentatomid bugs could result from geometrical arrangements that maximize the proportion of eggs in the cluster’s interior. Although the most common clutch sizes do not correspond with geometric optimality, stink bugs do tend to lay clusters of eggs in shapes that protect increasing proportions of their offspring as clutch sizes increase. We also considered whether ovariole number, an aspect of reproductive anatomy that may be a fixed trait across many pentatomids, could explain observed distributions of clutch sizes. The most common clutch sizes across many species correspond with multiples of ovariole number. However, there are species with the same number of ovarioles that lay clutches of widely varying size, among which multiples of ovariole number are not overrepresented. In pentatomid bugs, reproductive anatomy appears to be more important than egg mass geometry in determining clutch size uniformity. In addition, our analysis demonstrates that groups of animals with little variation in ovariole number may nonetheless lay a broad range of clutch shapes and sizes.

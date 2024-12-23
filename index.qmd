@@ -29,6 +29,6 @@ ___
 
 I'm passionate about equipping researchers with the skills they need to achieve greater impact.
 
-I plan, coordinate, and teach training workshops on programming, managing research data, and specialist research software. 
+I plan, coordinate, and sometimes teach training workshops on programming, managing research data, and specialist research software. 
 
-I'm currently learning how to use {{< iconify fa6-brands:r-project >}} and Quarto {{< iconify simple-icons:quarto >}} to visualise and interpret data.
+I'm a co-organiser of [ResBaz Aotearoa](https://resbaz.auckland.ac.nz/) and a certified Carpentries Instructor. 

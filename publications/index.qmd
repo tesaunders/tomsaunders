@@ -1,0 +1,18 @@
+---
+title: "Publications" 
+listing: 
+  contents:
+    - "**/index.qmd"
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, author, categories, date]
+  image-align: left
+
+format: 
+  html: 
+    page-layout: full
+# title-block-banner: false
+---

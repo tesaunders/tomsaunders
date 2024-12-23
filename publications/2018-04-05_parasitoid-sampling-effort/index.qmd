@@ -1,0 +1,24 @@
+---
+title: "Variation in the diversity and richness of parasitoid wasps based on sampling effort"
+author: 
+- name: Thomas E. Saunders
+  orcid: 0000-0003-1780-0314
+- name: Darren F. Ward
+  orcid: 0000-0002-4509-8553
+date: "2018-04-05"
+categories:
+  - Peer Reviewed
+  - Taxonomy
+  - Biodiversity
+  - Sampling methods
+  - Rarefaction
+subtitle: "*PeerJ*"
+description: "Optimal use of Malaise traps for capturing parasitoid wasps, as part of my master's research."
+---
+<div class="meta-heading-links">Links</div>
+
+[{{< iconify fluent:document-20-filled >}} **Publication**](https://doi.org/10.7717/peerj.4642){.btn .btn-outline-primary .btn role="button"}
+
+## Abstract
+
+Parasitoid wasps are a mega-diverse, ecologically dominant, but poorly studied component of global biodiversity. In order to maximise the efficiency and reduce the cost of their collection, the application of optimal sampling techniques is necessary. Two sites in Auckland, New Zealand were sampled intensively to determine the relationship between sampling effort and observed species richness of parasitoid wasps from the family Ichneumonidae. Twenty traps were deployed at each site at three different times over the austral summer period, resulting in a total sampling effort of 840 Malaise-trap-days. Rarefaction techniques and non-parametric estimators were used to predict species richness and to evaluate the variation and completeness of sampling. Despite an intensive Malaise-trapping regime over the summer period, no asymptote of species richness was reached. At best, sampling captured two-thirds of parasitoid wasp species present. The estimated total number of species present depended on the month of sampling and the statistical estimator used. Consequently, the use of fewer traps would have caught only a small proportion of all species (one trap 7–21%; two traps 13–32%), and many traps contributed little to the overall number of individuals caught. However, variation in the catch of individual Malaise traps was not explained by seasonal turnover of species, vegetation or environmental conditions surrounding the trap, or distance of traps to one another. Overall the results demonstrate that even with an intense sampling effort the community is incompletely sampled. The use of only a few traps and/or for very short periods severely limits the estimates of richness because (i) fewer individuals are caught leading to a greater number of singletons; and (ii) the considerable variation of individual traps means some traps will contribute few or no individuals. Understanding how sampling effort affects the richness and diversity of parasitoid wasps is a useful foundation for future studies.
