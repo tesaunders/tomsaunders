@@ -1,0 +1,34 @@
+---
+title: "Integrating Chemical Ecology with Behavioural Bioassays to Understand Host Preferences in the Stink Bug Egg Parasitoids *Trissolcus basalis* and *Trissolcus oenone* (Hymenoptera: Scelionidae)"
+author: 
+- name: Thomas E. Saunders
+  orcid: 0000-0003-1780-0314
+- name: Lee-Anne M. Manning
+  orcid: 0000-0002-6730-5859
+- name: Kye Chung Park
+  orcid: 0000-0002-4932-2292
+- name: Gregory I. Holwell
+  orcid: 0000-0002-6059-6032
+- name: Gonzalo A. Avila
+  orcid: 0000-0002-5584-453X
+
+date: "2025-05-28"
+categories:
+  - Peer Reviewed
+  - Arrestment
+  - Electroantennography
+  - Semiochemicals
+  - Host Recognition
+  - Biological Control
+subtitle: "*Journal of Chemical Ecology*"
+description: "A demonstration of how combining behavioural and chemical-ecological methods can improve assessment of host preferences in biocontrol agents, as part of my PhD research."
+---
+<div class="meta-heading-links">Links</div>
+
+[{{< iconify fluent:document-20-filled >}} **Publication**](https://doi.org/10.1007/s10886-025-01616-z){.btn .btn-outline-primary .btn role="button"} 
+&nbsp; 
+[{{< iconify academicons:zenodo >}} **Data & R Code**](https://doi.org/10.5281/zenodo.10114949){.btn .btn-outline-primary .btn role="button"} 
+
+## Abstract
+
+Current approaches to assessing potential non-target risks associated with biological control agents are conservative, and they often rely on oviposition experiments conducted in quarantine laboratories. By their nature, such tests offer robust evidence of a parasitoid’s ability to attack and develop in a host. However, they exclude many important chemical cues present in the natural environment, which play a key role in the ability of a parasitoid to search for and locate hosts. We conducted a series of experiments with *Trissolcus basalis* and *Trissolcus oenone* to better understand the chemical basis mediating differences in host-specificity between these parasitoids. First, we compared the searching behaviour of *T. basalis* and *T. oenone* in open arena arrestment bioassays contaminated with footprint compounds of *Nezara viridula* or *Cuspicona simplex*. *Trissolcus basalis* spent four times longer searching for *N. viridula* than *C. simplex*, while *T. oenone* spent four times longer searching for *C. simplex* than *N. viridula*. We then conducted competition experiments to assess factors important to determining the outcomes of extrinsic and intrinsic contests between these parasitoids when they are simultaneously exposed to *C. simplex* egg masses. *Trissolcus oenone* was the superior competitor in extrinsic and intrinsic contests. Finally, we recorded the antennal responses of *T. basalis* to egg extracts of *N. viridula*, to tentatively identify potential contact kairomones used by this parasitoid to recognise and accept hosts. We discuss our results in the context of combining behavioural and chemical ecological techniques for pre-release risk assessments of classical biological control agents.
