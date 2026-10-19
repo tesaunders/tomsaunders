@@ -1,0 +1,61 @@
+/* css styles */
+
+a {
+  color: #00bbff;
+}
+
+hr {
+    height: 3px;
+    background-color: #0000000;
+}
+
+div.quarto-about-solana .quarto-title {
+  font-size: 2rem;
+  text-align: left;
+}
+
+div.quarto-about-solana .about-entity .about-links {
+  justify-content: center;
+  border-style: none;
+  column-gap: 0em;
+}
+
+div.quarto-about-solana .about-entity .about-link {
+  border-style: none;
+  font-size: 1.5em;
+}
+
+.navbar {
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  background-color: #222222;
+  border-top: 1px solid #383838;
+  border-bottom: 1px solid #383838;
+}
+
+div.quarto-title-banner.page-columns.page-full {
+  background: #222222;
+}
+
+div.meta-heading-links {
+  text-transform: uppercase;
+  margin-top: 1em;
+  font-size: .8em;
+  opacity: .8;
+  font-weight: 400;
+}
+
+div.quarto-post .listing-categories .listing-category {
+  color:  #00bbff;
+  border: solid  #00bbff  1px;
+}
+
+.quarto-title .quarto-categories .quarto-category {
+  color:  #00bbff;
+  border: solid  #00bbff  1px;
+}
+
+.btn-outline-primary {
+  --bs-btn-color: #00bbff;
+  --bs-btn-border-color: #00bbff;
+}
