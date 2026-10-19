@@ -1,28 +1,18 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Tom Saunders"
   description: ""
-  # favicon:
   page-navigation: true
   back-to-top-navigation: true
-  # comments: 
-  #   utterances: 
-  #     repo: tesaunders/tomsaunders 
-  #     label: utterances
-  #     theme: body-light
-  #     issue-term: title
   
   navbar:
     title: "Tom Saunders"
     right:
-      # - text: Blog
-      #   href: blog.qmd
       - text: Publications
         href: publications/index.qmd
-  #     - text: Projects
-  #       href: projects.qmd
 
   page-footer:
     border: true

@@ -1,6 +1,6 @@
 ---
 title: "Tom Saunders"
-subtitle: Engagement Specialist,<br>Centre for eResearch, University of Auckland
+subtitle: Senior Engagement Specialist,<br>Centre for eResearch, University of Auckland
 pagetitle: "Tom Saunders"
 image: assets/images/tom-portrait.jpg
 image-alt: "Portrait photo of a smiling man with short hair and a moustache."
@@ -27,8 +27,8 @@ format:
 ---
 ___
 
-I'm passionate about equipping researchers with the skills they need to achieve greater impact.
+I connect researchers with e-Research services, capability, and support to enable them to conduct high-impact research at scale.
 
-I plan, coordinate, and sometimes teach training workshops on programming, managing research data, and specialist research software. 
+I provide trusted advice on managing research data, reproducibility in research, and open research practices.
 
-I'm a co-organiser of [ResBaz Aotearoa](https://resbaz.auckland.ac.nz/) and a certified Carpentries Instructor. 
+I lead [ResBaz Aotearoa](https://resbaz.auckland.ac.nz/) and other upskilling events aimed at the research community.
